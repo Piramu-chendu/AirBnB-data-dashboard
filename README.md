@@ -40,4 +40,5 @@ This project presents an interactive Tableau dashboard analyzing Airbnb listings
 
 
 🖼 Dashboard Preview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/edc4ab25-734e-4da7-8a9e-4c1772242904" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-19 145827" src="https://github.com/user-attachments/assets/263dd699-1afa-4b15-9eee-22e29363060e" />
