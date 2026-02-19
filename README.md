@@ -1,13 +1,17 @@
 # AirBnB-data-dashboard
+
 # Live link of Tableau Public 
+
 https://public.tableau.com/shared/R5TFFZTTC?:display_count=n&:origin=viz_share_link
 
 
 🔍 Project Overview
+
 This project presents an interactive Tableau dashboard analyzing Airbnb listings data from 2016. The dashboard explores pricing trends, revenue patterns, bedroom distribution, and geographic variations across zip codes.
 
 
 🎯 Objectives
+
 1.Analyze how Airbnb prices vary with number of bedrooms
 
 2.Identify revenue trends across the year
@@ -18,12 +22,14 @@ This project presents an interactive Tableau dashboard analyzing Airbnb listings
 
 
 🛠 Tools Used
+
 1.Tableau Public
 
 2.Kaggle Airbnb Dataset (2016)
 
 
 📈 Key Insights
+
 1.Listings with more bedrooms have significantly higher average prices
 
 2.Revenue shows a steady increase across the year
